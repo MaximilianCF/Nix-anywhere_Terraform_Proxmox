@@ -1,0 +1,7 @@
+pm_api_url     = "https://144.76.85.226:8006/api2/json"
+pm_user        = "root@pam"
+pm_password    = "eBWJwbH35exqTB"
+pm_node        = "n5"
+template_name  = "nix-anywhere-template"
+pm_storage     = "local"
+network_bridge = "vmbr0"
